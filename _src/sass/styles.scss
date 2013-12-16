@@ -1,0 +1,11 @@
+// Use @import to bring in all of your scss files
+
+// Usefull Helpers
+@import "mixins";
+
+// Normalize
+@import "../vendor/css/normalize.css";
+
+* {
+	@include prefix(box-sizing, border-box);
+}
