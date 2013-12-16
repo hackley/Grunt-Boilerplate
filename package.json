@@ -1,7 +1,7 @@
 {
   "name": "grunt-boilerplate",
   "version": "0.0.1",
-  "description": "Quick set up for a simple project using a Grunt workflow.",
+  "description": "Quick set up for projects using a simple Grunt workflow.",
   "repository": {
     "type": "git",
     "url": "https://github.com/nathanhackley/grunt-boilerplate.git"

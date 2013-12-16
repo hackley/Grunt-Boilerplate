@@ -1,7 +1,7 @@
 Grunt Boilerplate
 ===========
 
-Quick set up for a simple project using a Grunt workflow.
+Quick set up for projects using a simple Grunt workflow.
 
 ------
 
